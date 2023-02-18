@@ -30,4 +30,12 @@ aws --version
 
 ![Proof of working AWS CLI](assets/proof-of-aws-cli.png)
 
+## Recreate Conceptual Diagram in Lucid Charts or on a Napkin
+![Crudder Conceptual Design](assets/conceptual-architectural-diagram.png)
+[Conceptual Architectural Diagram](https://lucid.app/lucidchart/edde3444-5740-40b6-aad3-bc655310f216/edit?invitationId=inv_02fb0ae6-b829-4578-89de-fe8793bb6565)
+
+## Recreate Logical Architectual Diagram in Lucid Charts
+![Crudder Logical Design](assets/logical-architectural-diagram.png)
+[Logical Architectural Diagram](https://lucid.app/lucidchart/422e1266-27a7-4bd2-bcf3-d6b2cfaab3f7/edit?invitationId=inv_2299a8f3-16f2-463c-a2dc-defca5716615)
+
 ## Homework Challenges
