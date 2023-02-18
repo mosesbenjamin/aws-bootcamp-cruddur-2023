@@ -13,6 +13,9 @@ I am providing the instructions I used for configuring my local machine on an ap
 I did the following steps to install AWS CLI
 
 I installed AWS CLI via **zsh**
+
+I followed instructions on the [AWS CLI Documentation Page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+
 ```
 curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
 sudo installer -pkg AWSCLIV2.pkg -target /
