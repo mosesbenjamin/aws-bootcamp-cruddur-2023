@@ -2,7 +2,7 @@
 
 ## Required Homework
 
-#### Install AWS CLI
+#### Install and Verify AWS CLI
 
 I was not able to use Gitpod or Github Codespaces due to browser issues
 I used a local environment
@@ -17,12 +17,14 @@ I installed AWS CLI via **zsh**
 curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
 sudo installer -pkg AWSCLIV2.pkg -target /
 ```
-**Note to insert image**
+![Installing AWS CLI](assets/installing-aws-cli.png)
 
 I verified successful installation with
 ```
 aws --version
 ```
-**Note to insert image**
+![Verify sussessful install](assets/proof-of-successful-install-of-awscli.png)
+
+![Proof of working AWS CLI](assets/proof-of-aws-cli.png)
 
 ## Homework Challenges
