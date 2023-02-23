@@ -40,3 +40,21 @@
 
 ## Homework Challenges
 
+### Run the dockerfile CMD as an external script
+[Backend Dockerfile](https://github.com/mosesbenjamin/aws-bootcamp-cruddur-2023/blob/main/backend-flask/Dockerfile)
+
+[Backend script file](https://github.com/mosesbenjamin/aws-bootcamp-cruddur-2023/blob/main/backend-flask/script.sh)
+
+[Frontend Dockerfile](https://github.com/mosesbenjamin/aws-bootcamp-cruddur-2023/blob/main/frontend-react-js/Dockerfile)
+
+[Frontend script file](https://github.com/mosesbenjamin/aws-bootcamp-cruddur-2023/blob/main/frontend-react-js/script.sh)
+
+(remember to add proof)
+
+### Push and tag a image to DockerHub (they have a free tier)
+
+(remember to add proof)
+
+### Use multi-stage building for a Dockerfile build
+
+(remember to add proof)
