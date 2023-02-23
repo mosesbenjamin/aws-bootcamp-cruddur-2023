@@ -49,11 +49,15 @@
 
 [Frontend script file](https://github.com/mosesbenjamin/aws-bootcamp-cruddur-2023/blob/main/frontend-react-js/script.sh)
 
-(remember to add proof)
+![Dockerfile CMD as an external script](assets/proof-of-cmd-running-as-an-external-script.png)
 
 ### Push and tag a image to DockerHub (they have a free tier)
 
-(remember to add proof)
+![Tagging and pushing to dockerhub](assets/proof-of-tagging-and-pushing-to-dockerhub.png)
+
+![Backend image in dockerhub](assets/proof-of-backend-image-in-dockerhub.png)
+
+![Frontend image in dockerhub](assets/proof-of-frontend-image-in-dockerhub.png)
 
 ### Use multi-stage building for a Dockerfile build
 
