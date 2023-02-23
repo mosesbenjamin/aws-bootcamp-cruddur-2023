@@ -31,10 +31,12 @@
 ![React Page for Notifications](assets/proof-of-react-page-fornotifications.png)
 
 ### Run DynamoDB Local Container and ensure it works
-(remember to insert proof)
+
+![DynamoDB Local Container works](assets/proof-that-dynamodb-local-container-works.png)
 
 ### Run Postgres Container and ensure it works
-(remember to insert proof)
+
+![Postgres Container works](assets/proof-that-postgres-container-works.png)
 
 ## Homework Challenges
 
