@@ -23,5 +23,8 @@
 
 ![proof-of-instrumenting-rollbar.png](https://github.com/mosesbenjamin/aws-bootcamp-cruddur-2023/blob/main/journal/assets/proof-of-instrumenting-rollbar.png)
 
+# Instrument AWS X-Ray Subsegments
+[Instrument AWS X-Ray Subsegments](https://github.com/mosesbenjamin/aws-bootcamp-cruddur-2023/blob/main/backend-flask/services/notifications_activities.py#:~:text=%23%20%23x%2Dray,%23%20xray_recorder.end_subsegment())
 
+![proof-for-xray-subsegment](https://github.com/mosesbenjamin/aws-bootcamp-cruddur-2023/blob/main/journal/assets/proof-for-xray-subsegment.png)
 
