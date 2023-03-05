@@ -4,7 +4,7 @@ from aws_xray_sdk.core import xray_recorder
 class NotificationsActivities:
   def run():
     #x-ray 
-    segment = xray_recorder.begin_segment('notification_activities')
+    # segment = xray_recorder.begin_segment('notification_activities')
     now = datetime.now(timezone.utc).astimezone()
     results = [{
       'uuid': '68f126b0-1ceb-4a33-88be-d90fa7109eee',
@@ -47,12 +47,12 @@ class NotificationsActivities:
       }],
     }
     ]
-    #x-ray 
-    subsegment = xray_recorder.begin_subsegment('mock-data')
-    dict = {
-      "now": now.isoformat(),
-      "results-size": len(results)
-    }
+    # #x-ray 
+    # subsegment = xray_recorder.begin_subsegment('mock-data')
+    # dict = {
+    #   "now": now.isoformat(),
+    #   "results-size": len(results)
+    # }
     
-    subsegment.put_metadata('key', dict, 'namespace')
+    # subsegment.put_metadata('key', dict, 'namespace')
     return results
