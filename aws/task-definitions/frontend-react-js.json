@@ -11,7 +11,7 @@
     "containerDefinitions": [
       {
         "name": "frontend-react-js",
-        "image": "",
+        "image": "975095063495.dkr.ecr.ca-central-1.amazonaws.com/frontend-react-js",
         "essential": true,
         "portMappings": [
           {
